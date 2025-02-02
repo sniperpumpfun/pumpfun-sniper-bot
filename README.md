@@ -14,6 +14,8 @@ The **[SniperPump.Fun](https://sniperpump.fun/)** bot helps you trade tokens on 
 ✅ Makes intelligent **buy and sell** decisions to **maximize profits**  
 
 ---
+[![Thumbnail YouTube](https://img.youtube.com/vi/DPrVHDoji-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=DPrVHDoji-g)
+
 
 ## 📊 Trading Strategy  
 
